@@ -1,2 +1,3 @@
 create a
 remote a1
+local a1
